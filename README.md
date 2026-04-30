@@ -17,8 +17,8 @@ The **E-Learning Website Front-End** is a responsive and user-friendly interface
 
 ## 📸 Preview
 
-<img src="img/Group.png">
 <img src="img/auth.png">
+<img src="img/Group.png">
 
 
 ### 💡 Purpose
